@@ -57,6 +57,8 @@ streamlit run app.py
 
 The system predicts whether the entered news content is REAL or FAKE.
 
+FOR ACCESS THE PORTAL:https://fake-news-detection-system-wtmuwvdnxnddfcmfggjief.streamlit.app/
+
 Author
 
 Preethi
